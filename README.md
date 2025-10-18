@@ -33,7 +33,7 @@ src/
 ### 1️⃣ Clone the repo
 
 ````bash
-git clone https://github.com/<your-username>/guestara-backend.git
+git clone https://github.com/Chaudhary-Ji-03/guestara-backend.git
 cd guestara-backend
 
 2️⃣ Install dependencies
@@ -89,41 +89,3 @@ Maintaining relationships between category → subcategory → items and testing
 
 4️⃣ What I would do differently with more time:
 Implement authentication, pagination, and integrate a simple frontend (React/Next.js) to visualize menu data.
-
-🎥 Loom Video
-
-Loom Demo Link: [Add your Loom video link here]
-
-💻 Deployment (optional)
-
-If deployed:
-👉 Live Link
-
-
----
-
-### 🎥 2️⃣ Record a Short Loom Video (2–4 minutes)
-
-**Video Flow:**
-1. Introduce yourself (name + assignment intro)
-2. Show Postman testing:
-   - Create → Get → Edit APIs for Category/SubCategory/Item
-   - Search item example
-3. Show code briefly (folder structure + one controller)
-4. Mention the tech stack and what you learned
-
-✅ Keep it short, clear, confident.
-
----
-
-### 🧠 3️⃣ Push Code to GitHub
-
-Commands:
-```bash
-git init
-git add .
-git commit -m "Guestara Node.js Backend Assignment"
-git branch -M main
-git remote add origin https://github.com/<your-username>/guestara-backend.git
-git push -u origin main
-````
